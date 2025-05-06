@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gps_solutions_simple_code.iml" filepath="$PROJECT_DIR$/.idea/gps_solutions_simple_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gps_solutions_sse_detecter/.idea/gps_solutions_simple_code.iml" filepath="$PROJECT_DIR$/../gps_solutions_sse_detecter/.idea/gps_solutions_simple_code.iml" />
     </modules>
   </component>
 </project>
